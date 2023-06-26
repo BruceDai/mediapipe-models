@@ -1,0 +1,1 @@
+These models are from https://developers.google.com/mediapipe/solutions/guide#available_solutions.
